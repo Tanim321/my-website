@@ -1,0 +1,86 @@
+.nav-bar {
+    display: BLOCK;
+    list-style: none;
+    margin-left: -17px;
+    margin-right: -25px;
+    font-size: 16px;
+    background-color: white;
+    margin-top: -17px;
+    height: 49px;
+    padding: 8px 2px 2px 205px;
+}
+ul li {
+    display: inline;
+    margin-left: 64px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+.signin1 {
+    margin-left: 1397px;
+    margin-top: -36px;
+    width: 71px;
+    background-color: limegreen;
+    border-radius: 27px;
+    padding: 1px 2px 2px 24px;
+}
+.scrc {
+    margin-left: 1188px;
+    margin-top: -21px;
+}
+body{
+    background:url(../img/tanim2.jpg);
+    background-repeat: no-repeat;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 126px;
+}
+.TXTD {
+    color: white;
+    font-size: 57PX;
+    margin-left: 41%;
+}
+.txtd1 {
+    color: white;
+    font-size: 54px;
+    margin-left: 41%;
+}
+
+.ptg {
+    color: white;
+    width: 445px;
+    margin-left: 565px;
+    margin-top: 84px;
+    font-family: cursive;
+}
+.expl {
+    margin-left: 723px;
+    margin-top: 56px;
+}
+.explr {
+    background-color: #ff5776;
+    width: 119px;
+    height: 31px;
+    padding: 13px 12px 5px 17px;
+    text-align: center;
+    margin-left: 668px;
+    margin-top: 57px;
+    font-style: oblique;
+    border-radius: 95px;
+    color: white;
+}
+div a {
+    text-decoration: none;
+    color: white;
+}
+.last-containt {
+    text-align: center;
+    color: white;
+    width: 582px;
+    display: block;
+    margin-left: 444px;
+    margin-top: 37px;
+}
